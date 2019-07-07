@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003图片的使用/test01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/image/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04知识补充/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04知识补充/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04知识补充/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,8 +46,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04知识补充/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+            <state relative-caret-position="373">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="n#p#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#p#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,8 +84,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="543" />
-    <option name="y" value="211" />
+    <option name="x" value="589" />
+    <option name="y" value="83" />
     <option name="width" value="1400" />
     <option name="height" value="951" />
   </component>
@@ -164,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562507575890</updated>
-      <workItem from="1562507577042" duration="3270000" />
+      <workItem from="1562507577042" duration="3605000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -201,14 +191,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562509611793</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="前段">
+      <created>1562510861620</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562510861620</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3270000" />
+    <option name="totallyTimeSpent" value="3605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="543" y="211" width="1400" height="951" extended-state="0" />
+    <frame x="874" y="124" width="1400" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -236,7 +233,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="前端学习" />
     <MESSAGE value="超链接，图片的添加！" />
-    <option name="LAST_COMMIT_MESSAGE" value="超链接，图片的添加！" />
+    <MESSAGE value="前段" />
+    <option name="LAST_COMMIT_MESSAGE" value="前段" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/001博客/index.html">
@@ -290,8 +288,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04知识补充/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        <state relative-caret-position="373">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="n#p#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
