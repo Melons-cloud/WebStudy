@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/002新闻列表/image/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/002新闻列表/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/001博客/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/001博客/index.html">
+        <entry file="file://$PROJECT_DIR$/002新闻列表/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="346">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <element signature="e#118#124#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,12 +49,13 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/001博客/index.html" />
+        <option value="$PROJECT_DIR$/002新闻列表/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="506" />
-    <option name="y" value="163" />
+    <option name="x" value="599" />
+    <option name="y" value="125" />
     <option name="width" value="1400" />
     <option name="height" value="951" />
   </component>
@@ -81,7 +77,7 @@
             <path>
               <item name="WebStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="001博客" type="462c0819:PsiDirectoryNode" />
+              <item name="002新闻列表" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,9 +91,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/002新闻列表/image" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStudy\002新闻列表\image" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562507575890</updated>
-      <workItem from="1562507577042" duration="1006000" />
+      <workItem from="1562507577042" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -144,14 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562508149518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="前端学习">
+      <created>1562508718743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562508718743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1006000" />
+    <option name="totallyTimeSpent" value="1781000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="98" width="1400" height="951" extended-state="0" />
+    <frame x="368" y="142" width="1400" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -190,8 +198,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001博客/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#120#126#0" expanded="true" />
+            <element signature="e#126#132#0" expanded="true" />
+            <element signature="e#132#138#0" expanded="true" />
+            <element signature="e#138#144#0" expanded="true" />
+            <element signature="e#144#150#0" expanded="true" />
+            <element signature="e#152#158#0" expanded="true" />
+            <element signature="e#158#164#0" expanded="true" />
+            <element signature="e#164#170#0" expanded="true" />
+            <element signature="e#173#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002新闻列表/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#118#124#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
