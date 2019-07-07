@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/001博客/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/001博客/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/001博客/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="346">
+              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -58,8 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="522" />
-    <option name="y" value="308" />
+    <option name="x" value="506" />
+    <option name="y" value="163" />
     <option name="width" value="1400" />
     <option name="height" value="951" />
   </component>
@@ -121,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562507575890</updated>
-      <workItem from="1562507577042" duration="517000" />
+      <workItem from="1562507577042" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -137,14 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562507807107</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前端学习">
+      <created>1562508149518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562508149518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517000" />
+    <option name="totallyTimeSpent" value="1006000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="821" y="291" width="1400" height="951" extended-state="0" />
+    <frame x="668" y="98" width="1400" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -183,8 +190,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/001博客/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="346">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
