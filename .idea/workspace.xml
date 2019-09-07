@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HtmlAndCss/clock.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HtmlAndCss/clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlAndCss/clock.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,7 @@
       <workItem from="1567860421588" duration="581000" />
       <workItem from="1567871912315" duration="33000" />
       <workItem from="1567871970476" duration="11000" />
-      <workItem from="1567884677394" duration="804000" />
+      <workItem from="1567884677394" duration="4227000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562511228338</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="时钟">
+      <created>1567885499772</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567885499772</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +159,7 @@
     <MESSAGE value="前端学习" />
     <MESSAGE value="超链接，图片的添加！" />
     <MESSAGE value="前段" />
-    <option name="LAST_COMMIT_MESSAGE" value="前段" />
+    <MESSAGE value="时钟" />
+    <option name="LAST_COMMIT_MESSAGE" value="时钟" />
   </component>
 </project>
