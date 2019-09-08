@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link id="myCss" href="orange.css" rel="stylesheet">
+
+</head>
+<body>
+<a href="#" onclick="change('orange')">[橘色经典]</a>
+<a href="#" onclick="change('gray')">[灰色畅想]</a>
+<script>
+    function writeCookies(csspath) {
+        var tody = new Date();
+        var expires =new Date();
+        expires.setTime(tody.getTime()+1000*60*60*24*30); //有效期30天
+        var str ="cssPath="+csspath+",expires="+expires.toGMTString()+";";
+        document.cookie=str;
+
+    }
+    function readCookies(cookieName) {
+        var search =cookieName+"=";
+        if (document.cookie.length>0){
+            offset=document.cookie.indexOf(search);
+            if (offset!=-1){
+                offset+=search.length;
+                end =document.cookie.indexOf(";",offset);
+                if (end==-1){
+
+                    end=document.cookie.length;
+                    return unescape(document.cookie.substring(offset,end));
+                }
+            }
+        }
+    }
+    function change(type) {
+        if (type=="orange"){
+
+            document.getElementById("myCss").href="orange.css";
+            writeCookies("orange.css");
+        }
+        if (type=="gray"){
+
+            document.getElementById("myCss").href="gray.css";
+            writeCookies("gray.css")
+        }
+    }
+</script>
+
+</body>
+</html>

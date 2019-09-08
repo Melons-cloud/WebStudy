@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HtmlAndCss/clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlAndCss/clock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/005百度云盘目录/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -76,9 +75,6 @@
       <workItem from="1567091584375" duration="36000" />
       <workItem from="1567091702537" duration="1063000" />
       <workItem from="1567860421588" duration="581000" />
-      <workItem from="1567871912315" duration="33000" />
-      <workItem from="1567871970476" duration="11000" />
-      <workItem from="1567884677394" duration="4227000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -129,14 +125,7 @@
       <option name="project" value="LOCAL" />
       <updated>1562511228338</updated>
     </task>
-    <task id="LOCAL-00008" summary="时钟">
-      <created>1567885499772</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1567885499772</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,9 +136,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -159,7 +146,6 @@
     <MESSAGE value="前端学习" />
     <MESSAGE value="超链接，图片的添加！" />
     <MESSAGE value="前段" />
-    <MESSAGE value="时钟" />
-    <option name="LAST_COMMIT_MESSAGE" value="时钟" />
+    <option name="LAST_COMMIT_MESSAGE" value="前段" />
   </component>
 </project>
