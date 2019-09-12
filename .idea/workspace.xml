@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="前段">
-      <change afterPath="$PROJECT_DIR$/javascript/onclick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/第一个js.html" afterDir="false" />
+    <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/javascript/更复杂的东西.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +75,7 @@
       <workItem from="1567091584375" duration="36000" />
       <workItem from="1567091702537" duration="1063000" />
       <workItem from="1567860421588" duration="581000" />
-      <workItem from="1568293006085" duration="1639000" />
+      <workItem from="1568293006085" duration="3499000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -127,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562511228338</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="第一个js特效">
+      <created>1568294754698</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568294754698</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +156,7 @@
     <MESSAGE value="前端学习" />
     <MESSAGE value="超链接，图片的添加！" />
     <MESSAGE value="前段" />
-    <option name="LAST_COMMIT_MESSAGE" value="前段" />
+    <MESSAGE value="第一个js特效" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一个js特效" />
   </component>
 </project>
