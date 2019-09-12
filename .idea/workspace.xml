@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript/更复杂的东西.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/SwtichSkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/a链接加js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/className.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/css1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/css2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/改文字.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/显示隐藏.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,6 +47,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WebStudy\005百度云盘目录\img" />
       <recent name="D:\WebStudy\04知识补充\image" />
@@ -75,7 +84,7 @@
       <workItem from="1567091584375" duration="36000" />
       <workItem from="1567091702537" duration="1063000" />
       <workItem from="1567860421588" duration="581000" />
-      <workItem from="1568293006085" duration="3499000" />
+      <workItem from="1568293006085" duration="6779000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -133,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568294754698</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="第一个js特效">
+      <created>1568296709222</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568296709222</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
