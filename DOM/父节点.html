@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+
+        window.onload=function () {
+           var aA=document.getElementsByTagName('a');
+           for (var i=0;i<aA.length;i++){
+
+               aA[i].onclick=function () {
+                   this.parentNode.style.display='none';
+               };
+           }
+        };
+    </script>
+</head>
+<body>
+<ul id="ul1">
+    <li>1212dasd<a href="javascript:;">隐藏</a></li>
+    <li>daaa12121 <a href="javascript:;">隐藏</a></li>
+    <li>asad21231 <a href="javascript:;">隐藏</a></li>
+    <li>211212<a href="javascript:;">隐藏</a></li>
+    <li>dasda121<a href="javascript:;">隐藏</a></li>
+
+
+</ul>
+
+</body>
+</html>
