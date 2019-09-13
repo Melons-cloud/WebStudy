@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<!-- 鼠标移入到input上，div1显示
+鼠标移除input的时候，让div1隐藏-->
+    <meta charset="UTF-8">
+    <title>无标题文档</title>
+    <style>
+        #div1{width: 200px;height: 100px;background: #ccc;border: 1px;solid-color: #999;display: none;}
+    </style>
+</head>
+<body>
+<!--当鼠标移入onmouseover,当鼠标移除onmouseout-->
+<input type="checkbox" onmouseover="document.getElementById('div1').style.display='block';" onmouseout="document.getElementById('div1').style.display='none'"/>
+<div id="div1">
+    为了您的信息安全........
+</div>
+</body>
+</html>

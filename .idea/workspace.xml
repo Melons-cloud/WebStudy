@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efce4d9-1414-4c33-9dc8-caee9610bd10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DOM/子结点.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001博客/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/002新闻列表/image/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/002新闻列表/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/003图片的使用/test01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/img/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/one/one.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/two/three/three.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/005百度云盘目录/two/two.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/image/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04知识补充/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +75,6 @@
       <workItem from="1567091584375" duration="36000" />
       <workItem from="1567091702537" duration="1063000" />
       <workItem from="1567860421588" duration="581000" />
-      <workItem from="1568361691419" duration="16000" />
-      <workItem from="1568361726837" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="前端学习">
       <created>1562507666287</created>
@@ -166,9 +136,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
